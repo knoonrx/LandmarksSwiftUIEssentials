@@ -12,6 +12,6 @@ This tutorial guides you through building Landmarks — an app for discovering a
 To lay out the views, Landmarks uses stacks to combine and layer the image and text view components. To add a map to the view, you’ll include a standard MapKit component. As you refine the view’s design, Xcode provides real-time feedback so you can see how those changes translate into code.
 
 
-[Landmarks SwiftUI Essentials](#)
+![Landmarks SwiftUI Essentials](https://github.com/knoonrx/LandmarksSwiftUIEssentials/blob/main/screen.gif)
 
 ref [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
