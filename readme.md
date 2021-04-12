@@ -14,4 +14,6 @@ To lay out the views, Landmarks uses stacks to combine and layer the image and t
 
 ![Landmarks SwiftUI Essentials](https://github.com/knoonrx/LandmarksSwiftUIEssentials/blob/main/screen.gif)
 
+![Screenshot simulator](https://github.com/knoonrx/LandmarksSwiftUIEssentials/blob/main/simulator_screenshot_6E1F1EAD-11B7-43A9-82D9-E13D820FA5B8.png)
+
 ref [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
